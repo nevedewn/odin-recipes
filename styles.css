@@ -22,18 +22,14 @@ h1{
 h2 {
     background-color: rgb(161, 176, 247);
     padding: 20px;
+    text-align: center;
+    border-radius: 25%;
 }
 
 .home {
     text-align: right;
     display: block;
-    color: black
-}
-
-.recipeList > li {
-    font-size: xx-large;
-    color: black;   
-    font-weight: bold;
+    color: black;
 }
 
 p {
